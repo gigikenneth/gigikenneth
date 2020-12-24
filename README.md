@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about biochemistry and machine learning
 - 📫 How to reach me: gigikenneth7@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love memes anc chocolate
+- ⚡ Fun fact: I love memes and chocolate
 
