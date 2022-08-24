@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love chocolate 🍫
 -->
-<h1 align="center">Hi, I'm Gigi!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<img align='right' src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" width="230">
+<h1 align="center">Hi, I'm Gigi!👋🏾</h1>
 
 ## About me
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I'm a Machine Learning Engineer 👩🏽‍💻 & Community Builder 👥 <br>
