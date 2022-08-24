@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ## About me
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I'm a Machine Learning Engineer 👩🏽‍💻 & Community Builder 👥 <br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Data Scientist picking up MLOps ⚙️ <br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I write articles on AI & Business Intelligence <br>
 
 <br>
