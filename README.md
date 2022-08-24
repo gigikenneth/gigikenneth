@@ -46,13 +46,14 @@ Here are some ideas to get you started:
 
 <br>
 
-## My Recent Blog posts ✍️
+## My Recent Articles ✍️
 
-- [13 Income Ideas for Web Developers 💸✨](https://ayeshasahar.hashnode.dev/13-income-ideas-for-web-developers)
-- [Simplifying Closures in JavaScript](https://ayeshasahar.hashnode.dev/simplifying-closures-in-javascript)
-- [Everything you need to know about Parallelism, Threading, and Multi-threading in Python](https://ayeshasahar.hashnode.dev/everything-you-need-to-know-about-parallelism-threading-and-multi-threading-in-python)
-- [A Simple Guide to Gestalt Principles In UI/UX Design](https://ayeshasahar.hashnode.dev/a-simple-guide-to-gestalt-principles-in-uiux-design)
-- [Adding Custom Code to your Editor X Website](https://ayeshasahar.hashnode.dev/adding-custom-code-to-your-editor-x-website)
+- [Opening Africa’s medical data presents both pros and cons](https://www.the-yuan.com/337/Opening-Africa-s-medical-data-presents-both-pros-and-cons.html)
+- [The Future of Precision Medicine in Africa, the World](https://www.the-yuan.com/305/The-Future-of-Precision-Medicine-in-Africa-the-World.html)
+- [Evolution of AI in Africa](https://www.the-yuan.com/159/Evolution-of-AI-in-Africa.html)
+- [Top 6 Power BI Benefits For Your Business](https://blog.panoply.io/benefits-of-power-bi)
+- [A Guide to Business Intelligence Dashboards](https://www.plutora.com/blog/guide-business-intelligence-dashboards)
+
 
 <br>
 
