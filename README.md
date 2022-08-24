@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://bluegenes.hashnode.dev/)
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gigi_kenneth)
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://medium.com/@bluegenes)
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@bluegenes)
 
 <br>
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ## Tools I Use ✨
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=whit
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
