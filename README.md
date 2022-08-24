@@ -38,15 +38,16 @@ Here are some ideas to get you started:
 
 <br>
 
-## Tools I Use ✨
+## Tools I Use 🛠️
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Gitpod](https://img.shields.io/badge/gitpod-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <br>
 
-## My Recent Articles ✍️
+## My Recent Articles 📝
 
 - [Opening Africa’s medical data presents both pros and cons](https://www.the-yuan.com/337/Opening-Africa-s-medical-data-presents-both-pros-and-cons.html)
 - [The Future of Precision Medicine in Africa, the World](https://www.the-yuan.com/305/The-Future-of-Precision-Medicine-in-Africa-the-World.html)
@@ -57,5 +58,5 @@ Here are some ideas to get you started:
 
 <br>
 
-## My GitHub Stats 😎
+## My GitHub Stats 👀
 ![Gigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gigikenneth&theme=cobalt&show_icons=true)
