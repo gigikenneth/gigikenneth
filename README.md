@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 ## Connect with me ^_^ 
 
-[<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://bluegenes.hashnode.dev/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/gigikenneth)
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gigi_kenneth)
+[<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://bluegenes.hashnode.dev/)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@bluegenes)
 
 <br>
