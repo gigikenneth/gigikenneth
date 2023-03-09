@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Gigi!👋🏾</h1>
 
 ## About me
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I'm a Machine Learning Engineer 👩🏽‍💻 & Community Builder 👥 <br>
+<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I'm an AI Product Manager & Machine Learning Engineer 👩🏽‍💻 <br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Data Scientist picking up MLOps ⚙️ <br>
 <img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I write articles on AI & Business Intelligence <br>
 
@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 - [Evolution of AI in Africa](https://www.the-yuan.com/159/Evolution-of-AI-in-Africa.html)
 - [Top 6 Power BI Benefits For Your Business](https://blog.panoply.io/benefits-of-power-bi)
 - [A Guide to Business Intelligence Dashboards](https://www.plutora.com/blog/guide-business-intelligence-dashboards)
+- You'll find the rest updated [here](https://linktr.ee/gigikenneth)
 
 
 <br>
