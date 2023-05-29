@@ -59,6 +59,3 @@ Here are some ideas to get you started:
 
 
 <br>
-
-## My GitHub Stats 👀
-![Gigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gigikenneth&theme=cobalt&show_icons=true)
