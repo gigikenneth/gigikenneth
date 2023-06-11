@@ -36,4 +36,4 @@
 - [Evolution of AI in Africa](https://www.the-yuan.com/159/Evolution-of-AI-in-Africa.html)
 - [Top 6 Power BI Benefits For Your Business](https://blog.panoply.io/benefits-of-power-bi)
 - [A Guide to Business Intelligence Dashboards](https://www.plutora.com/blog/guide-business-intelligence-dashboards)
-- You'll find the rest updated [here](https://linktr.ee/gigikenneth)
+- You'll find the rest updated [here](https://linktr.ee/gigikenneth).
