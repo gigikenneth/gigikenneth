@@ -24,7 +24,7 @@
 
 <!--update with resume link 
 <li>📙 Check out my <a href="https://www.link to pdf">resume</a>.</li> -->    
-<li>🤺 Fun Fact: I fence foil</li>
+<li>🤺 Fun Fact: I fence foil.</li>
 </ul>
 
 <h2>✒️ Recent Posts</h2>
