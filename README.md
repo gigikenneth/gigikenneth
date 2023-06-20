@@ -31,6 +31,8 @@
 
 - [What is self-supervised learning?](https://www.educative.io/answers/what-is-self-supervised-learning)
 - [Kubernetes Compliance: An In-Depth Guide to Governance](https://loft.sh/blog/kubernetes-compliance-an-in-depth-guide-to-governance/)
+- [Building an AI Text Generation Bot in Go with Telegram and Cohere](https://bluegenes.hashnode.dev/building-an-ai-text-generation-bot-in-go-with-telegram-and-cohere)
+- [Creating an AI Text Summarization Bot in Python Using Cohere & Telegram](https://bluegenes.hashnode.dev/creating-an-ai-text-summarization-bot-in-python-using-cohere-telegram)
 - [Opening Africa’s medical data presents both pros and cons](https://www.the-yuan.com/337/Opening-Africa-s-medical-data-presents-both-pros-and-cons.html)
 - [The Future of Precision Medicine in Africa, the World](https://www.the-yuan.com/305/The-Future-of-Precision-Medicine-in-Africa-the-World.html)
 - [Evolution of AI in Africa](https://www.the-yuan.com/159/Evolution-of-AI-in-Africa.html)
