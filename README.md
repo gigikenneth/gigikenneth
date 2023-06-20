@@ -1,8 +1,8 @@
-<h2>Hi, I'm <a href="https://mainstack.me/gigikenneth">Gigi👋🏾</a></h2>
+<h2>Hi, I'm <a href="https://bit.ly/gigikenneth">Gigi👋🏾</a></h2>
 <p>I'm currently an AI Product Manager and Machine Learning Engineer. 
 
 <!--tags -->    
-<p><a href="https://mainstack.me/gigikenneth"><img src="https://img.shields.io/badge/-Website-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=website&amp;link=https://mainstack.me/gigikenneth" alt="Website Badge"></a> 
+<p><a href="https://bit.ly/gigikenneth"><img src="https://img.shields.io/badge/-Website-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=website&amp;link=https://mainstack.me/gigikenneth" alt="Website Badge"></a> 
 <a href="https://medium.com/@bluegenes"><img src="https://img.shields.io/badge/-Medium-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@bluegenes" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/gigikenneth/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/gigikenneth/" alt="LinkedIn Badge"></a> <a href="https://twitter.com/gigi_kenneth/"><img src="https://img.shields.io/badge/-Twitter-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=Twitter&amp;link=https://twitter.com/gigi_kenneth/" alt="Twitter Badge"></a> <a href="https://bluegenes.hashnode.dev/"><img src="https://img.shields.io/badge/-Hashnode-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=Hashnode&amp;link=https://bluegenes.hashnode.dev/" alt="Hashnode Badge"></a> 
 
 <!--can include something here but won't -->    
