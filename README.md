@@ -16,7 +16,7 @@
 <h2>👩🏽‍💻 Fun  Facts</h2>
 <ul>
     
-<li>📝 I’m currently <a href="https://gigikenneth.github.io/ai-ethical-implications/">researching on AI ethics</a>.</li>
+<li>📝 I’m currently <a href="https://gigikenneth.github.io/ai-ethical-implications/">researching on AI ethics and policies</a>.</li>
     
 <li>🤔 Learning about <strong>natural language processing</strong>, <strong>MLOps</strong>, and <strong>AI ethics & policies</strong>.</li>
     
