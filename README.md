@@ -18,7 +18,7 @@
     
 <li>📝 I’m currently <a href="https://gigikenneth.github.io/ai-ethical-implications/">researching on AI ethics and policies</a>.</li>
     
-<li>🤔 Learning about <strong>natural language processing</strong>, <strong>MLOps</strong>, and <strong>AI ethics & responsible tech</strong>.</li>
+<li>🤔 Learning about <strong>natural language processing</strong>, <strong>MLOps</strong>, and <strong>AI ethics & explainable AI</strong>.</li>
     
 <li>✏️ I write articles on <a href="https://bluegenes.medium.com">my blog</a>.</li>
 
