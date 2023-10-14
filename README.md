@@ -1,5 +1,5 @@
 <h2>Hi, I'm <a href="https://sites.google.com/view/gigikenneth/">Gigi👋🏾</a></h2>
-<p>I'm currently an AI Product Manager and Machine Learning Engineer. 
+<p>I'm currently a Technical Writer and someone who probably rambles too much about AI. 
 
 <!--tags -->    
 <p><a href="https://sites.google.com/view/gigikenneth/"><img src="https://img.shields.io/badge/-Website-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=website&amp;link=https://sites.google.com/view/gigikenneth/" alt="Website Badge"></a> 
