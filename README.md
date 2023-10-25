@@ -1,5 +1,5 @@
 <h2>Hi, I'm <a href="https://sites.google.com/view/gigikenneth/">Gigi👋🏾</a></h2>
-<p>I'm currently a Technical Writer and someone who probably rambles too much about AI. 
+<p>I'm a Machine Learning Engineer and Technical Writer. </p>
 
 <!--tags -->    
 <p><a href="https://sites.google.com/view/gigikenneth/"><img src="https://img.shields.io/badge/-Website-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=website&amp;link=https://sites.google.com/view/gigikenneth/" alt="Website Badge"></a> 
@@ -18,7 +18,7 @@
     
 <li>📝 I’m currently <a href="https://gigikenneth.github.io/ai-ethical-implications/">researching on AI ethics and policies</a>.</li>
     
-<li>🤔 Learning about <strong>natural language processing</strong>, <strong>MLOps</strong>, and <strong>AI ethics & explainable AI</strong>.</li>
+<li>🤔 Learning about <strong>natural language processing</strong>, <strong>MLOps</strong>, <strong>product management</strong>, and <strong>AI ethics + explainable AI</strong>.</li>
     
 <li>✏️ I write articles on <a href="https://bluegenes.medium.com">my blog</a>.</li>
 
