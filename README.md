@@ -29,6 +29,9 @@
 
 <h2>✒️ Recent Posts</h2>
 
+- [Shiny Express: Blending the Best of Shiny and Streamlit for Dashboard Development](https://appsilon.com/shiny-express-intro/)
+- [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://appsilon.com/r-vs-sas-pharma-life-sciences/)
+- [{rhino} vs {golem} vs {leprechaun}: Which R/Shiny Library is Right for You?](https://appsilon.com/rhino-vs-golem-vs-leprechaun/)
 - [What is self-supervised learning?](https://www.educative.io/answers/what-is-self-supervised-learning)
 - [Kubernetes Compliance: An In-Depth Guide to Governance](https://loft.sh/blog/kubernetes-compliance-an-in-depth-guide-to-governance/)
 - [Building an AI Text Generation Bot in Go with Telegram and Cohere](https://bluegenes.hashnode.dev/building-an-ai-text-generation-bot-in-go-with-telegram-and-cohere)
