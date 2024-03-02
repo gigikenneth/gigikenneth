@@ -29,6 +29,7 @@
 
 <h2>✒️ Recent Posts</h2>
 
+-[Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://appsilon.com/shiny-for-clinical-trial-reporting/)
 - [Shiny Express: Blending the Best of Shiny and Streamlit for Dashboard Development](https://appsilon.com/shiny-express-intro/)
 - [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://appsilon.com/r-vs-sas-pharma-life-sciences/)
 - [{rhino} vs {golem} vs {leprechaun}: Which R/Shiny Library is Right for You?](https://appsilon.com/rhino-vs-golem-vs-leprechaun/)
