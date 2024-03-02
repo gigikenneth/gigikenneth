@@ -18,7 +18,7 @@
     
 <li>📝 I’m currently <a href="https://gigikenneth.github.io/ai-ethical-implications/">researching on AI ethics and policies</a>.</li>
     
-<li>🤔 Learning about <strong>natural language processing</strong>, <strong>MLOps</strong>, <strong>product management</strong>, and <strong>AI ethics + explainable AI</strong>.</li>
+<li>🤔 Learning about <strong>technical content marketing</strong>, <strong>machine learning</strong>, <strong>R/Shiny</strong>, and <strong>AI ethics</strong>.</li>
     
 <li>✏️ I write articles on <a href="https://bluegenes.medium.com">my blog</a>.</li>
 
@@ -29,7 +29,7 @@
 
 <h2>✒️ Recent Posts</h2>
 
--[Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://appsilon.com/shiny-for-clinical-trial-reporting/)
+- [Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://appsilon.com/shiny-for-clinical-trial-reporting/)
 - [Shiny Express: Blending the Best of Shiny and Streamlit for Dashboard Development](https://appsilon.com/shiny-express-intro/)
 - [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://appsilon.com/r-vs-sas-pharma-life-sciences/)
 - [{rhino} vs {golem} vs {leprechaun}: Which R/Shiny Library is Right for You?](https://appsilon.com/rhino-vs-golem-vs-leprechaun/)
@@ -42,4 +42,4 @@
 - [Evolution of AI in Africa](https://www.the-yuan.com/159/Evolution-of-AI-in-Africa.html)
 - [Top 6 Power BI Benefits For Your Business](https://blog.panoply.io/benefits-of-power-bi)
 - [A Guide to Business Intelligence Dashboards](https://www.plutora.com/blog/guide-business-intelligence-dashboards)
-- You'll find the rest updated [here](https://sites.google.com/view/gigikenneth/articles).
+- You'll find the rest updated [on my portfolio site](https://sites.google.com/view/gigikenneth/articles).
