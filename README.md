@@ -18,7 +18,7 @@
     
 <li>📝 I’m currently <a href="https://gigikenneth.github.io/ai-ethical-implications/">researching on AI ethics and policies</a>.</li>
     
-<li>🤔 Learning about <strong>technical content marketing</strong>, <strong>machine learning</strong>, <strong>R/Shiny</strong>, and <strong>AI ethics</strong>.</li>
+<li>🤔 Learning about <strong>technical content marketing</strong>, <strong>machine learning</strong>, <strong>R/Py-Shiny</strong>, and <strong>AI ethics</strong>.</li>
     
 <li>✏️ I write articles on <a href="https://bluegenes.medium.com">my blog</a>.</li>
 
@@ -29,6 +29,9 @@
 
 <h2>✒️ Recent Posts</h2>
 
+- [Introduction to Quality Assurance for Shiny for Python Dashboards with Playwright](https://www.appsilon.com/post/testing-pyshiny-with-playwright)
+- [Discover great_tables: The Python Answer to R's {gt} Package for Table Formatting in Quarto and PyShiny](https://www.appsilon.com/post/great-tables)
+- [Choosing the Right Data Visualization Tool: R Shiny, PowerBI or Spotfire](https://www.appsilon.com/post/rshiny-vs-powerbi-vs-spotfire)
 - [Escape the Spreadsheet Inferno: Switch to Shiny for Clinical Trial Reporting](https://appsilon.com/shiny-for-clinical-trial-reporting/)
 - [Shiny Express: Blending the Best of Shiny and Streamlit for Dashboard Development](https://appsilon.com/shiny-express-intro/)
 - [Beyond SAS: How R is Revolutionizing Pharma and Life Sciences](https://appsilon.com/r-vs-sas-pharma-life-sciences/)
