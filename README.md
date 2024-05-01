@@ -29,6 +29,7 @@
 
 <h2>✒️ Recent Posts</h2>
 
+- [Introducing Tapyr: Create and Deploy Enterprise-Ready PyShiny Dashboards with Ease](https://www.appsilon.com/post/introducing-tapyr)
 - [Introduction to Quality Assurance for Shiny for Python Dashboards with Playwright](https://www.appsilon.com/post/testing-pyshiny-with-playwright)
 - [Discover great_tables: The Python Answer to R's {gt} Package for Table Formatting in Quarto and PyShiny](https://www.appsilon.com/post/great-tables)
 - [Choosing the Right Data Visualization Tool: R Shiny, PowerBI or Spotfire](https://www.appsilon.com/post/rshiny-vs-powerbi-vs-spotfire)
