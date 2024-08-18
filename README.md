@@ -24,7 +24,7 @@
 
 <!--update with resume link 
 <li>📙 Check out my <a href="https://www.link to pdf">resume</a>.</li> -->    
-<li>🤺 Other things I do: I fence foil, and I'm trying out polo.</li>
+<li>🤺 Other things I do: I fence foil, and I'm trying out horse riding.</li>
 </ul>
 
 <h2>✒️ Recent Posts</h2>
