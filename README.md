@@ -1,5 +1,5 @@
 <h2>Hi, I'm <a href="https://sites.google.com/view/gigikenneth/">Gigi👋🏾</a></h2>
-<p>I'm a Machine Learning Engineer and Technical Writer. </p>
+<p>I'm a Technical Writer and Machine Learning Engineer. </p>
 
 <!--tags -->    
 <p><a href="https://sites.google.com/view/gigikenneth/"><img src="https://img.shields.io/badge/-Website-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=website&amp;link=https://sites.google.com/view/gigikenneth/" alt="Website Badge"></a> 
@@ -16,15 +16,15 @@
 <h2>👩🏽‍💻 Fun  Facts</h2>
 <ul>
     
-<li>📝 I’m currently <a href="https://gigikenneth.github.io/ai-ethical-implications/">researching on AI ethics and policies</a>.</li>
+<li>📝 I’m currently writing a bunch.</li>
     
-<li>🤔 Learning about <strong>technical content marketing</strong>, <strong>machine learning</strong>, <strong>R/Py-Shiny</strong>, and <strong>AI ethics</strong>.</li>
+<li>🤔 Learning about <strong>technical content marketing</strong>, <strong>machine learning</strong>, <strong>data science (R/Python)</strong>, and <strong>AI ethics</strong>.</li>
     
 <li>✏️ I write articles on <a href="https://bluegenes.medium.com">my blog</a>.</li>
 
 <!--update with resume link 
 <li>📙 Check out my <a href="https://www.link to pdf">resume</a>.</li> -->    
-<li>🤺 Fun Fact: I fence foil.</li>
+<li>🤺 Other things I do: I fence foil, and I'm trying out polo.</li>
 </ul>
 
 <h2>✒️ Recent Posts</h2>
