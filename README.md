@@ -29,6 +29,9 @@
 
 <h2>✒️ Recent Posts</h2>
 
+- [Exploring the Top 5 pharmaverse Packages](https://pharmaverse.github.io/blog/posts/2024-08-15_top_five_pharmaverse_packages/top-five-packages.html)
+- [Applications of Machine Learning in Pharma: From Drug Design to Clinical Trials](https://www.appsilon.com/post/applications-of-machine-learning-in-pharma)
+- [The Hidden Challenges of Working with Cloud Large Language Models: A Text2Graph Case Study](https://www.appsilon.com/post/challenges-of-working-with-cloud-llms)
 - [Introducing Tapyr: Create and Deploy Enterprise-Ready PyShiny Dashboards with Ease](https://www.appsilon.com/post/introducing-tapyr)
 - [Introduction to Quality Assurance for Shiny for Python Dashboards with Playwright](https://www.appsilon.com/post/testing-pyshiny-with-playwright)
 - [Discover great_tables: The Python Answer to R's {gt} Package for Table Formatting in Quarto and PyShiny](https://www.appsilon.com/post/great-tables)
