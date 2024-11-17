@@ -1,4 +1,4 @@
-<h2>Hi, I'm <a href="https://wwww.gigikenneth.com/">Gigi👋🏾</a></h2>
+<h2>Hi, I'm <a href="https://www.gigikenneth.com/">Gigi👋🏾</a></h2>
 <p>I'm a Technical Writer and Machine Learning Engineer. </p>
 
 <!--tags -->    
